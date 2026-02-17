@@ -61,5 +61,4 @@ The dataset contains campaign-level advertising metrics including:
 
 ---
 
-## 📂 Project Structure
 
